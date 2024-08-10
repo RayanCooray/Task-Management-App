@@ -1,0 +1,21 @@
+node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
+
+for jwt random key
+
+
+{
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "password": "securePassword123"
+}
+
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "newPassword123"
+}
+
+
+
+users/johndoe@example.com
